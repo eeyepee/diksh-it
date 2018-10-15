@@ -1,4 +1,4 @@
-#Read the dictionary
+##Read the dictionary
 fh = open('C:\\Users\\ibrahim.nezar\\Desktop\\english-dict2.txt')
 dict = []
 while True:
