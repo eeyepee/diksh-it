@@ -1,2 +1,3 @@
-## Diksh-it
-This is my first public program written in python. The goal is to find all dictionary words based on the letters you provide as input.
+## Worder
+The goal here is to find all valid dictionary words based on letters you provide as input.
+As simple as that
