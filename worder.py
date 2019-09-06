@@ -1,5 +1,5 @@
 ##Read the dictionary
-fh = open('C:\\Users\\ibrahim.nezar\\Desktop\\english-dict2.txt')
+fh = open('C:\\Users\\username\\Desktop\\english-dict2.txt')
 dict = []
 while True:
     line = fh.readline()
@@ -8,7 +8,7 @@ while True:
         break
 fh.close()
 
-'''with open('C:\\Users\\ibrahim.nezar\\Desktop\\english-dict2.txt') as fh:
+'''with open('C:\\Users\\username\\Desktop\\english-dict2.txt') as fh:
     file = fh.readlines()
     dict = set(file)'''
 
